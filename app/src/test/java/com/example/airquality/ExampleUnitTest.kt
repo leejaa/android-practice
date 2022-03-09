@@ -1,4 +1,4 @@
-package com.example.qrcodereader
+package com.example.airquality
 
 import org.junit.Test
 
